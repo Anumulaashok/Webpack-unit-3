@@ -1,0 +1,11 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid orange;
+    padding: 10px;
+}
+#options{
+    display: flex;
+    gap: 20px;
+}
